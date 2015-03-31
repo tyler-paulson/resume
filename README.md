@@ -45,6 +45,10 @@ Bachelor of Fine Arts in Graphic Design with an emphasis in Interactive Design.
 
 ## Conferences
 
+03.2015  
+**Squares Conference**  
+Grapevine, TX
+
 09.2014  
 **Circles Conference**  
 Grapevine, TX
@@ -56,7 +60,6 @@ Brooklyn, NY
 07.2011  
 **WordCamp**  
 San Diego, CA
-
 
 ## Other
 
