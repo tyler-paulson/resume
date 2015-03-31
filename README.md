@@ -31,7 +31,7 @@ Designed small and large format print materials, developed front-end and managed
 ## Technical Skills
 
 **Working knowledge of:**  
-OS X, Photoshop, Illustrator, InDesign, HTML, CSS, JavaScript, PHP, SASS, jQuery, WordPress and Git.
+OS X, Photoshop, Illustrator, InDesign, HTML, CSS, JavaScript, PHP, Sass, jQuery, WordPress and Git.
 
 **Familiarity with:**  
 Ubuntu, Apache, After Effects, Flash, Stripe API, MailChimp / Mandrill API, Vimeo API, and Google Analytics.
@@ -64,7 +64,7 @@ San Diego, CA
 ## Other
 
 **Special Interest: Travel Aborad**  
-Lived in the country of Grenada from 2011–2013. Visited eight countries from 2012–2014; Trinidad and Tobago, St. Vincent and The Grenadines, Barbados, Kenya, South Sudan, England, France and Canada.
+Lived in the country of Grenada from 2011–2013. Visited nine countries from 2012–2014; Trinidad and Tobago, St. Vincent and The Grenadines, Barbados, Kenya, South Sudan, Argentina, England, France and Canada.
 
 **References**  
 Available on request.
