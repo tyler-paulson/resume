@@ -1,20 +1,25 @@
 ## Experience
 
-04.2014–Present  
+06.2006–Present  
+**Graphic Designer & Front-end Developer**
+**Self-employed**
+*Here, there, and everywhere*
+
+05.2008–Present  
+**Volunteer**  
+**In Deed And Truth Ministries**  
+*Tonj, South Sudan*  
+Responsible for the majority of the ministry's creative and technical needs. Have traveled to rural South Sudan three times to work directly with the team on the ground.
+
+04.2014–05.2015  
 **Technology Coordinator**  
 **iEARN-USA**  
 *New York, NY*  
 
-04.2014–Present  
+04.2014–04.2015  
 **Web Course Instructor**  
 **Shillington School**  
 *New York, NY* 
-
-05.2008–Present  
-**Volunteer  
-In Deed And Truth Ministries**  
-*Tonj, South Sudan*  
-Responsible for the majority of the ministry's creative and technical needs. Have traveled to rural South Sudan three times to work directly with the team on the ground.
 
 10.2011–04.2014  
 **UI Designer / Front-end Developer**  
@@ -23,8 +28,8 @@ Responsible for the majority of the ministry's creative and technical needs. Hav
 Full-time remote contractor. Lead the conceptualization and design of multiple iOS and web applications and the development of the front-end code base of multiple web applications.
 
 07.2004–12.2010  
-**Graphic Designer / Audio & Video Engineer  
-Horizon Christian Fellowship**  
+**Graphic Designer / Audio & Video Engineer**  
+**Horizon Christian Fellowship**  
 *Rancho Santa Fe, CA*  
 Designed small and large format print materials, developed front-end and managed content of website, edited video and mixed live sound. Employment rotated between full-time, part-time and per-project depending on school schedule.
 
