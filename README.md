@@ -1,8 +1,8 @@
 ## Experience
 
 06.2006–Present  
-**Graphic Designer & Front-end Developer**
-**Self-employed**
+**Graphic Designer & Front-end Developer**  
+**Self-employed**  
 *Here, there, and everywhere*
 
 05.2008–Present  
