@@ -1,15 +1,9 @@
-## Experience
+## Employment
 
-06.2006–Present  
-**Graphic Designer & Front-end Developer**  
+05.2015–Present  
+**Graphic Designer / Front-end Developer**  
 **Self-employed**  
-*Here, there, and everywhere*
-
-05.2008–Present  
-**Volunteer**  
-**In Deed And Truth Ministries**  
-*Tonj, South Sudan*  
-Responsible for the majority of the ministry's creative and technical needs. Have traveled to rural South Sudan three times to work directly with the team on the ground.
+*Danville, PA*
 
 04.2014–05.2015  
 **Technology Coordinator**  
@@ -25,13 +19,6 @@ Responsible for the majority of the ministry's creative and technical needs. Hav
 **UI Designer / Front-end Developer**  
 **ThreeDev, LLC**  
 *Encinitas, CA*  
-Full-time remote contractor. Lead the conceptualization and design of multiple iOS and web applications and the development of the front-end code base of multiple web applications.
-
-07.2004–12.2010  
-**Graphic Designer / Audio & Video Engineer**  
-**Horizon Christian Fellowship**  
-*Rancho Santa Fe, CA*  
-Designed small and large format print materials, developed front-end and managed content of website, edited video and mixed live sound. Employment rotated between full-time, part-time and per-project depending on school schedule.
 
 ## Technical Skills
 
@@ -40,6 +27,14 @@ OS X, Photoshop, Illustrator, InDesign, HTML, CSS, JavaScript, PHP, Sass, jQuery
 
 **Familiarity with:**  
 Ubuntu, Apache, After Effects, Flash, Stripe API, MailChimp / Mandrill API, Vimeo API, and Google Analytics.
+
+## Volunteer
+
+05.2008–Present  
+**Communication / Technology Coordinator**  
+**In Deed And Truth Ministries**  
+*Tonj, South Sudan*  
+Responsible for the majority of the ministry's communication and technology needs. Have traveled to rural South Sudan three times to work directly with the team on the ground.
 
 ## Education
 
@@ -50,12 +45,12 @@ Bachelor of Fine Arts in Graphic Design with an emphasis in Interactive Design.
 
 ## Conferences
 
-03.2015  
-**Squares Conference**  
+09.2014 + 09.2015
+**Circles Conference**  
 Grapevine, TX
 
-09.2014  
-**Circles Conference**  
+03.2015  
+**Squares Conference**  
 Grapevine, TX
 
 10.2013  
