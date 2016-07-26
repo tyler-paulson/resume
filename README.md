@@ -26,7 +26,7 @@
 OS X, Photoshop, Illustrator, InDesign, HTML, CSS, JavaScript, PHP, Sass, jQuery, WordPress and Git.
 
 **Familiarity with:**  
-Ubuntu, Apache, After Effects, Flash, Stripe API, MailChimp / Mandrill API, Vimeo API, and Google Analytics.
+Ubuntu, Apache, After Effects, React, Stripe API, MailChimp / Mandrill API, Vimeo API, and Google Analytics.
 
 ## Volunteer
 
