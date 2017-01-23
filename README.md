@@ -13,7 +13,7 @@
 04.2014–04.2015  
 **Web Course Instructor**  
 **Shillington School**  
-*New York, NY* 
+*New York, NY*
 
 10.2011–04.2014  
 **UI Designer / Front-end Developer**  
@@ -26,12 +26,11 @@
 OS X, Photoshop, Illustrator, InDesign, HTML, CSS, JavaScript, PHP, Sass, jQuery, WordPress and Git.
 
 **Familiarity with:**  
-Ubuntu, Apache, After Effects, React, Stripe API, MailChimp / Mandrill API, Vimeo API, and Google Analytics.
+Ubuntu, Apache, After Effects, React, Stripe API, MailChimp API, Vimeo API, and Google Analytics.
 
 ## Volunteer
 
 05.2008–Present  
-**Communication / Technology Coordinator**  
 **In Deed And Truth Ministries**  
 *Tonj, South Sudan*  
 Responsible for the majority of the ministry's communication and technology needs. Have traveled to rural South Sudan three times to work directly with the team on the ground.
@@ -64,7 +63,7 @@ San Diego, CA
 ## Other
 
 **Special Interest: Travel Aborad**  
-Lived in the country of Grenada from 2011–2013. Visited nine countries from 2012–2014; Trinidad and Tobago, St. Vincent and The Grenadines, Barbados, Kenya, South Sudan, Argentina, England, France and Canada.
+Lived in the country of Grenada from 2011–2013. Visited eleven countries since 2012; Trinidad and Tobago, St. Vincent and The Grenadines, Barbados, Kenya, South Sudan, Canada, Argentina, England, France, Peru and Bolivia.
 
 **References**  
 Available on request.
