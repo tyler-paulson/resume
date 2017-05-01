@@ -44,7 +44,7 @@ Bachelor of Fine Arts in Graphic Design with an emphasis in Interactive Design.
 
 ## Conferences
 
-03.2015 + 04.2016  
+03.2015, 04.2016 + 04.2017
 **Squares Conference**  
 Grapevine, TX
 
