@@ -1,5 +1,10 @@
 ## Employment
 
+04.2017–Present  
+**Grid & Arrow**  
+**Co-Founder**  
+*Danville, PA*
+
 05.2015–Present  
 **Tyler Paulson Design & Development**  
 **Owner**  
@@ -26,7 +31,7 @@
 OS X, Photoshop, Illustrator, InDesign, HTML, CSS, JavaScript, PHP, Sass, jQuery, WordPress and Git
 
 **Familiarity with:**  
-Ubuntu, Apache, After Effects, React, Stripe API, MailChimp API, Vimeo API, and Google Analytics
+Ubuntu, Apache, After Effects, React, Vue, Stripe API, MailChimp API, Vimeo API, and Google Analytics
 
 ## Education
 
@@ -59,7 +64,7 @@ Responsible for the ministry's communication and technology needs
 ## Other
 
 **Special Interest: Travel Aborad**  
-Lived in the country of Grenada from 2011–2013; visited eleven countries since 2012
+Lived in the country of Grenada from 2011–2013; visited twelve countries since 2012
 
 **References**  
 Available on request.
