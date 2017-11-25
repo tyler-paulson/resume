@@ -3,7 +3,7 @@
 04.2017–Present  
 **Grid & Arrow**  
 **Co-Founder**  
-*Danville, PA*
+*Lewisburg, PA*
 
 05.2015–Present  
 **Tyler Paulson Design & Development**  
