@@ -42,9 +42,9 @@ Bachelor of Fine Arts in Graphic Design with an emphasis in Interactive Design
 
 ## Conferences
 
-08.2017  
-**WordCamp**  
-Lehigh Valley, PA
+12.2019
+**WordCamp US**  
+Nashville, TN
 
 03.2015, 04.2016 + 04.2017  
 **Squares Conference**  
