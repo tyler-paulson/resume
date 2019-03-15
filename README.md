@@ -42,7 +42,7 @@ Bachelor of Fine Arts in Graphic Design with an emphasis in Interactive Design
 
 ## Conferences
 
-12.2019
+12.2019  
 **WordCamp US**  
 Nashville, TN
 
